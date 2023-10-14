@@ -17,6 +17,10 @@ body, input, textarea {
     font-family: 'Roboto', sans-serif;
 }
 
+img {
+    pointer-events: none;
+}
+
 .destaque {
     text-align: center;
     margin: 40px 10px 40px 40px;
